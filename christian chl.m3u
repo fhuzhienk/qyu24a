@@ -1,5 +1,66 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.KPUZ3ezObhFlqst-xMkSlgAAAA?pid=ImgDet&w=165&h=109.47115384615384&c=7 group-title="✟ Christian Channels ✟",Instrumental Rohani
+https://ythls-v2.onrender.com/video/BbyUNvTz1U4.m3u8
+
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.8Utw-awrDE3Oll96v3cMlQHaF1?pid=ImgDet&w=165&h=130.22307692307692&c=7 group-title="✟ Christian Channels ✟",Pujian Penyembahan
+https://ythls-v2.onrender.com/video/Em28TXLFozo&t=6997s.m3u8
+
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.NuZ5dybkmKZui1bcLEdeXwHaHa?pid=ImgDet&w=145&h=106.201171875&c=7 group-title="✟ Christian Channels ✟",Worship Nonstop
+https://ythls-v2.onrender.com/video/IXsIRMmfudw.m3u8
+
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.atCx9e4TLv0XZz-rc3JnGgAAAA?pid=ImgDet&w=145&h=145&c=7 group-title="✟ Christian Channels ✟",Revere Worship
+https://ythls-v2.onrender.com/video/M94RrCFqaw4.m3u8
+
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.I2UIYcJRUFkK8lLzYyTqggHaDt?pid=ImgDet&w=165&h=88.84615384615384&c=7 group-title="✟ Christian Channels ✟",Worship Music Nonstop
+https://ythls-v2.onrender.com/video/MCFTo2HFLbI.m3u8
+
+#EXTINF:-1  tvg-logo="https://th.bing.com/th/id/OIP.XZw43iYW8o-iC5RB03JlugHaHa?pid=ImgDet&w=165&h=165&c=7" group-title="✟ Christian Channels ✟",Gospel Music Nonstop
+https://ythls-v2.onrender.com/video/U5JAYvVehxA.m3u8
+
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/527/895/png-transparent-contemporary-worship-music-choir-song-khotbah.png" group-title="✟ Christian Channels ✟",Worship Praise Nonstop
+https://ythls-v2.onrender.com/video/lvPNRp9_jbA.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dcCRKCj/iam.jpg" group-title="✟ Christian Channels ✟",IAM Channel
+https://61146e7ab7a66.streamlock.net:1978/tes/1/chunklist_w422801998.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" tvg-country="ID" tvg-url="" group-title="✟ Christian Channels ✟",U-Channel
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel.m3u8
+
+#EXTINF:-1  tvg-logo="https://itfuns.net/wp-content/uploads/2020/10/Hope-Channel-India-News-Watch-Live-TV-Channel-From-India.jpg" group-title="✟ Christian Channels ✟",Hope Channel id
+https://anym3u8player.com/youtube.php/id/660851da5b4cd.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="✟ Christian Channels ✟",LIFE
+https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://reformed21.tv/images/logo.png" group-title="✟ Christian Channels ✟",Reformed21
+https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://reformed21.tv/images/logo.png" group-title="✟ Christian Channels ✟",Reformed21 2
+https://ythls-v2.onrender.com/video/Xni-HtTj9-w.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://w7.pngwing.com/pngs/367/40/png-transparent-united-states-ewtn-internet-radio-catholicism-united-states-television-angle-white.png" group-title="✟ Christian Channels ✟",EWTN
+https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574f658b1017506741c665418/f37dcbd1fbf445e3a9900537f1778f63.jpg" group-title="✟ Christian Channels ✟",Pijar TV
+####https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+https://rebrand.ly/pijartv
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
